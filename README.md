@@ -5,6 +5,7 @@ Este mini projeto é uma API desenvolvida em Node.js que cadastre usuarios e sua
 ## Funcionalidades
 
 - **Adicionar User**
+<img src=""C:\Users\Maria Eduarda\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-01-15 113730.png" alt="Texto Alternativo">
 - **Listar Users**
 - **Buscar User por ID**
 - **Deletar User por ID**
